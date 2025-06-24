@@ -294,10 +294,10 @@ discord:
 
 
 ## 🚀 Installation
-1. Download `ScreenShare-1.0.jar` file from official spigot page. **Do not download this plugin from any other source! It might be malicious!**
+1. Download `ScreenShare-1.0.jar` file from official [spigot page](https://www.spigotmc.org/resources/screenshare.126348/). **Do not download this plugin from any other source! It might be malicious!**
 2. Place the `ScreenShare-1.0.jar` file into your server's plugins/ folder.
 3. Restart your Minecraft server.
-4. The config.yml will be generated in plugins/ScreenShareManager/. Edit it to fit your server's needs.
+4. The config.yml will be generated in plugins/ScreenShare/. Edit it to fit your server's needs.
 5. Restart your server again for the configuration changes to take effect.
 
 ## ⌨️ Commands & Permissions
